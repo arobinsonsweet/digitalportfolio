@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://arobinsonsweet.github.io/digitalportfolio/sitemap.xml

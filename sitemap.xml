@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://arobinsonsweet.github.io/digitalportfolio/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://arobinsonsweet.github.io/digitalportfolio/</loc>
+</url>
+<url>
+<loc>https://arobinsonsweet.github.io/digitalportfolio/anna-robinson-sweet.html</loc>
+<lastmod>2024-06-13T09:19:09-07:00</lastmod>
+<image:image>
+<image:loc>https://arobinsonsweet.github.io/digitalportfolio/media/posts/1/headshot_square.jpg</image:loc>
+<image:title><![CDATA[Headshot photograph of Anna Robinson-Sweet]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://arobinsonsweet.github.io/digitalportfolio/media/posts/1/IMG_1097-2.JPG</image:loc>
+<image:title><![CDATA[Photograph of plaque from my project &quot;Connecticut Memorial to Victims of State Violence&quot;]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://arobinsonsweet.github.io/digitalportfolio/archival.html</loc>
+<lastmod>2024-06-11T17:38:28-07:00</lastmod>
+<image:image>
+<image:loc>https://arobinsonsweet.github.io/digitalportfolio/media/posts/5/we-demand-2.JPG</image:loc>
+<image:title><![CDATA[Photograph of exhibition of archival materials about activism at The New School]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://arobinsonsweet.github.io/digitalportfolio/art.html</loc>
+<lastmod>2024-06-11T17:39:20-07:00</lastmod>
+<image:image>
+<image:loc>https://arobinsonsweet.github.io/digitalportfolio/media/posts/6/IMG_1096.JPG</image:loc>
+<image:title><![CDATA[Photograph of monument with plaques listing names of those killed by police in Connecticut]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://arobinsonsweet.github.io/digitalportfolio/media/posts/6/1812_Honour_withborder.jpg</image:loc>
+<image:title><![CDATA[Silkscreen print of grave plot diagram. White ink on black paper]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://arobinsonsweet.github.io/digitalportfolio/media/posts/6/Hospital_1-2.jpg</image:loc>
+<image:title><![CDATA[Silkscreen print with red cross shape and black text overlaid.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://arobinsonsweet.github.io/digitalportfolio/media/posts/6/NationalRegister_Kohnstamm_1.jpg</image:loc>
+<image:title><![CDATA[Photograph of a handmade landmark plaque hanging on a concrete wall]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://arobinsonsweet.github.io/digitalportfolio/contact.html</loc>
+<lastmod>2024-06-13T09:34:52-07:00</lastmod>
+</url>
+<url>
+<loc>https://arobinsonsweet.github.io/digitalportfolio/cv.html</loc>
+<lastmod>2024-06-13T09:14:47-07:00</lastmod>
+</url>
+<url>
+<loc>https://arobinsonsweet.github.io/digitalportfolio/projects.html</loc>
+<lastmod>2024-06-13T15:37:28-07:00</lastmod>
+<image:image>
+<image:loc>https://arobinsonsweet.github.io/digitalportfolio/media/posts/2/working-in-archives.jpeg</image:loc>
+<image:title><![CDATA[Photograph of Anna working in archives]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://arobinsonsweet.github.io/digitalportfolio/research.html</loc>
+<lastmod>2024-06-11T17:54:50-07:00</lastmod>
+<image:image>
+<image:loc>https://arobinsonsweet.github.io/digitalportfolio/media/posts/4/abolitionist-archival-imaginaries.jpg</image:loc>
+<image:title><![CDATA[Collage images with words &quot;Abolitionist Archival Imaginaries&quot;]]></image:title>
+</image:image>
+</url>
+</urlset>
