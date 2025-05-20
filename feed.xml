@@ -3,10 +3,232 @@
     <title>Anna Robinson-Sweet</title>
     <link href="https://arobinsonsweet.github.io/digitalportfolio/feed.xml" rel="self" />
     <link href="https://arobinsonsweet.github.io/digitalportfolio" />
-    <updated>1969-12-31T16:00:00-08:00</updated>
+    <updated>2025-05-20T15:45:46-07:00</updated>
     <author>
         <name>Anna Robinson-Sweet</name>
     </author>
     <id>https://arobinsonsweet.github.io/digitalportfolio</id>
 
+    <entry>
+        <title>Intellectual Statement</title>
+        <author>
+            <name>Anna Robinson-Sweet</name>
+        </author>
+        <link href="https://arobinsonsweet.github.io/digitalportfolio/intellectual-statement.html"/>
+        <id>https://arobinsonsweet.github.io/digitalportfolio/intellectual-statement.html</id>
+
+        <updated>2025-05-20T12:27:29-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Digital humanities provides an intellectual home for my interdisciplinary work on archives, digital memory practices, and social movements. As an&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Digital humanities provides an intellectual home for my interdisciplinary work on archives, digital memory practices, and social movements. As an archivist and oral historian, I practiced DH before I knew what it was. In graduate studies for my MLIS and subsequent work in archives, I worked on digital collection development, metadata, and preservation. As a PhD candidate Information Studies pursuing the Graduate Certificate in Digital Humanities, I have taken coursework and participated in research that has given me a strong grounding in DH’s theoretical and methodological approaches.</p>
+<p>My engagement with DH thus far can be placed in two overlapping categories: the use of DH methods to conduct research; and the critical examination of digital archives. An example of my work in the first category is research with the BioCritical Studies Lab on in-custody deaths in Maryland jails. I created visualizations of this data that were used by the Lab and partner community organizations to generate policy recommendations. Some of these visualizations were published in <a href="https://ucla.app.box.com/s/z5wuokjrcegd2gvrx2hk3f7tbi938k47">a report</a> that our partners in Maryland used as an advocacy tool. In other research, I used theoretical frameworks from DH to critically examine digital archives. For example, working with the UCLA Community Archives Lab, I collaborated on a project called “Virtual Belonging: Assessing the Affective Impact of Digital Records Creation in Community Archives.” This project examined community archives’ use of technologies like Zoom to create records. In a co-authored publication currently in production, we assessed the affordances and limitations of these technologies in creating safe environments for marginalized people to share their oral history with an archive.</p>
+<p>In my dissertation I bring together these realms of DH research, by using DH methods to examine digital archives that collect material from incarcerated and formerly incarcerated people. My dissertation studies archival collections related to incarceration, with a focus on how communities use these archives to imagine and organize toward post-carceral futures. Much of this work takes place online, and two of the three archives in my study are primarily digital archives. An approach grounded in DH provides me with a theoretical framework for critically examine these digital archives. I have also used DH methods such as mapping, network visualization, and text analysis to situate the archives within an ecosystem of digital memory work on incarceration. I plan to continue using these methods as the project develops, and to publish a digital version of my findings in an accessible format to share with community research partners.</p>
+<p>My research highlights what Maria Cotera calls “the radical potential” of DH, and particularly how it is manifested by community archives. In my dissertation, I highlight how those targeted by incarceration and other forms of state violence use digital archives as spaces for politicized grief, healing, and radical activism. By studying these as DH projects, I aim to disrupt epistemological hierarchies that segregate academic knowledge production from grassroots knowledge production. I argue that community digital archival praxis, which emerges from lived experiences of marginalization and violence, offer an ethic for DH projects that is grounded in care, transformation, and world-building.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>What is Digital Humanities?</title>
+        <author>
+            <name>Anna Robinson-Sweet</name>
+        </author>
+        <link href="https://arobinsonsweet.github.io/digitalportfolio/what-is-digital-humanities.html"/>
+        <id>https://arobinsonsweet.github.io/digitalportfolio/what-is-digital-humanities.html</id>
+
+        <updated>2025-05-20T12:16:13-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Ever since Digital Humanities (DH) emerged as a field in the early 2000s [1], there have been debates over the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Ever since Digital Humanities (DH) emerged as a field in the early 2000s <a href="#_ftn1" name="_ftnref1">[1],</a> there have been debates over the definition, or even existence, of DH as a distinct scholarly discipline <a href="#_ftn2" name="_ftnref2">[2]</a>. Following a period of heated exchange on this topic, and amidst accusations that DH was a trojan horse for neoliberal forces in academia, <a href="https://read.dukeupress.edu/differences/article/25/1/46/60680/What-Is-Digital-Humanities-And-Why-Are-They-Saying">Matthew Kirschenbaum argued</a> for an embrace of DH as “a discursive construct:”</p>
+<p><em>“The agon par excellence of the construct is of course the question of definition: what is digital humanities? The insistence on the question is what allows the construct to do its work, to function as a space of contest for competing agendas. But more importantly—and this is precisely where the logic of the construct most readily reveals itself—there is no actual shortage of definitions of digital humanities.” (51)</em></p>
+<p>In this view, it is precisely the contested terrain that DH occupies which allows it to be a generative site of scholarship. This transdisciplinarity is partially why I locate my own research within DH.</p>
+<p>DH breaches walls both within and outside of the academy. While there is often an assumption that DH is the application of computational tools in humanistic inquiry, <a href="https://www.inthelibrarywiththeleadpipe.org/2015/on-scholarly-communication-and-the-digital-humanities-an-interview-with-kathleen-fitzpatrick/">Kathleen Fitzpatrick notes</a> an equally important side of DH: “The bringing humanistic modes of inquiry to bear on digital media.” Intersecting with the fields of Science and Technology Studies (STS) and Human Computer Interaction (HCI), DH brings a critical and contextual lens to the creation and study of digital technologies, disrupting notions of these technologies’ objectivity and lack of historicity<a href="#_ftn3" name="_ftnref3"> [3].</a></p>
+<p>When I think of DH, I think of projects such as <a href="https://dsl.richmond.edu/panorama/redlining/">Mapping Inequality</a>, <a href="https://interactive.quipu-project.com/#/en/quipu/intro">The Quipu Project</a>, <a href="https://coloredconventions.org/">Colored Conventions</a>, and <a href="https://xpmethod.columbia.edu/torn-apart/volume/2/index">Torn Apart/Separados</a>. These projects demonstrate what <a href="https://muse.jhu.edu/article/704334">María Cotera calls</a> “the radical potential” of DH: the ability to collectively build knowledge outside of the academy and thereby dismantle epistemological hierarchies. However, Cotera crucially notes that this radical potential is not inherent to DH work; a critical approach is necessary, one that is attentive to how legacies of white supremacy, colonialism, and patriarchy are imbued in digital technologies and the humanities. <a href="https://www.jstor.org/stable/10.5406/j.ctvfjd0mf">Critical digital humanities</a> does this work, bringing postcolonial and critical race, ethnic, and gender studies to bear on the creation, study, and use of technology.</p>
+<p>I situate my own work within this lineage, looking to work by scholars such as Moya Bailey and Jessica Marie Johnson as touchstones. Both Bailey and Johnson critique the use of data in digital humanities research, with <a href="https://read.dukeupress.edu/social-text/article/36/4%20(137)/57/137032/Markup-BodiesBlack-Life-Studies-and-Slavery-Death">Johnson noting</a> how historians’ datafication of enslaved people reinscribes slavery’s violent dehumanization and quantification of Black people. <a href="https://web.archive.org/web/20161223120914/http:/www.digitalhumanities.org/dhq/vol/9/2/000209/000209.html">Bailey writes</a> about the harm in using social media data without consent, particularly when that data was created by marginalized people. Bailey calls for a digital humanities research ethic of “collaborative construction” that centers ongoing consent. These calls to view the humanity underlying data are particularly pronounced in feminist DH scholarship. As the authors of the <a href="https://www.manifestno.com/">Feminist Data Manifest-No</a> succinctly put it:</p>
+<p><em>“<strong>We refuse</strong> to understand data as disembodied and thereby dehumanized and departicularized. <strong>We commit</strong> to understanding data as always and variously attached to bodies; we vow to interrogate the biopolitical implications of data with a keen eye to gender, race, sexuality, class, disability, nationality, and other forms of embodied difference.”</em></p>
+<p>The bodies of scholarship cited above indicate the various overlaps between the humanities and social sciences that are found under the umbrella of DH. An additional, and particularly significant overlap for me, is in the shared space of DH and archival studies. Archival studies, which is the study of the creation, organization, management, and use of archival records, is my disciplinary home. As archival practice has necessarily entailed a greater engagement with the digital, the study of digital archives has generated important critiques on what the affordances and limitations of these projects <a href="#_ftn4" name="_ftnref4">[4]</a>. However, as <a href="https://academic.oup.com/ahr/article/126/3/1102/6421763">Michelle Caswell and Itza Carbajal</a> argue, while humanists increasingly create digital archives, they are often unaware of the choices (or lack of choices) they are making in doing this work. Their call for “critical digital archives” can be read as a call for greater crosspollination between digital humanities and archival studies. Given the shifting discursive construction of DH, there is plenty of room for this engagement.</p>
+<p>It is the combination of these theoretical perspectives from the humanities, archival studies, STS, and HCI that constitutes DH. These theories intermix and inform a range of methodological approaches. Research methods commonly associated with DH include text analysis, data visualization, network mapping, and digital mapping. Other scholars engage with DH primarily to disseminate their research, such as in the creation of digital collections, exhibits, or publications. Each method comes with its own toolbox, which is constantly evolving. Indeed, another core contribution of DH is to provide cultural, historical, and sociological context for ever-emergent technologies.</p>
+<hr>
+<p><a href="#_ftnref1" name="_ftn1">[1]</a> In their introduction to a recent digital humanities reader, Melissa Terras, Julianne Nyhan, and Edward Vanhoutte trace the emergence of the term “digital humanities” to the 2005 launch of Alliance of Digital Humanities Organisations, although they also note that scholarship that we would now classify as digital humanities has a much longer history. </p>
+<p><a href="#_ftnref2" name="_ftn2">[2]</a> The website <a href="https://whatisdigitalhumanities.com/">https://whatisdigitalhumanities.com/</a> displays this variety of definitions.</p>
+<p><a href="#_ftnref3" name="_ftn3">[3]</a> See, for example: Ruha Benjamin, <em>Race after Technology: Abolitionist Tools for the New Jim Code</em> (Medford, MA: Polity, 2019); Noble, Safiya Umoja. 2018. <em>Algorithms of Oppression : How Search Engines Reinforce Racism  / Safiya Umoja Noble.</em> New York: New York University Press.</p>
+<p><a href="#_ftnref4" name="_ftn4">[4]</a> See for example: Michelle Caswell and Samip Mallick, “Collecting the Easily Missed Stories: Digital Participatory Microhistory and the South Asian American Digital Archive,” <em>Archives and Manuscripts</em> 42, no. 1 (January 2, 2014): 73–86, <a href="https://doi.org/10.1080/01576895.2014.880931">https://doi.org/10.1080/01576895.2014.880931</a>; Isto Huvila, “Participatory Archive: Towards Decentralised Curation, Radical User Orientation, and Broader Contextualisation of Records Management,” <em>Archival Science</em> 8, no. 1 (March 2008): 15–36, <a href="https://doi.org/10.1007/s10502-008-9071-0">https://doi.org/10.1007/s10502-008-9071-0</a>; Tonia Sutherland, “Making a Killing: On Race, Ritual, and (Re) Membering in Digital Culture,” <em>Preservation, Digital Technology &amp; Culture</em> 46, no. 1 (2017): 32–40.</p>
+<h2>Bibliography</h2>
+<div class="csl-bib-body">
+<div> </div>
+<div>
+<div class="csl-bib-body">
+<div>
+<div class="csl-bib-body">
+<div class="csl-entry">Bailey, Moya. “#transform(Ing)DH Writing and Research: An Autoethnography of Digital Humanities and Feminist Ethics.” <i>Digital Humanities Quarterly</i> 9, no. 2 (2015).</div>
+<div> </div>
+</div>
+</div>
+<div>
+<div class="csl-bib-body">
+<div class="csl-entry">Carbajal, Itza A., and Michelle Caswell. “Critical Digital Archives: A Review from Archival Studies.” <i>The American Historical Review</i> 126, no. 3 (November 9, 2021): 1102–20. <a href="https://doi.org/10.1093/ahr/rhab359">https://doi.org/10.1093/ahr/rhab359</a>.</div>
+<div> </div>
+</div>
+</div>
+<div>Cifor, Marika, Patricia Garcia, TL Cowan, Jasmine Rault, Tonia Sutherland, Anita Say Chan, Jennifer Rode, Anna Lauren Hoffmann, Niloufar Salehi, and Lisa Nakamura. "Feminist Data Manifest-No," 2019. <a href="https://www.manifestno.com/">https://www.manifestno.com/</a>.</div>
+<div> </div>
+<div class="csl-entry">Cotera, María. “Nuestra Autohistoria: Toward a Chicana Digital Praxis.” <i>American Quarterly</i> 70, no. 3 (2018): 483–504. <a href="https://doi.org/10.1353/aq.2018.0032">https://doi.org/10.1353/aq.2018.0032</a>.</div>
+<div> </div>
+<div>
+<div class="csl-bib-body">
+<div class="csl-entry">
+<div class="csl-bib-body">
+<div class="csl-entry">D’Ignazio, Catherine, and Lauren F Klein. “Feminist Data Visualization,” n.d. <a href="https://kanarinka.com/wp-content/uploads/2015/07/IEEE_Feminist_Data_Visualization.pdf">https://kanarinka.com/wp-content/uploads/2015/07/IEEE_Feminist_Data_Visualization.pdf</a>.</div>
+</div>
+</div>
+<div> </div>
+</div>
+</div>
+<div>
+<div class="csl-bib-body">
+<div>
+<div class="csl-bib-body">
+<div class="csl-entry">Johnson, Jessica Marie. “Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads.” <i>Social Text</i> 137 (December 2018): 57–79.</div>
+<div> </div>
+<div>
+<div class="csl-bib-body">
+<div class="csl-entry">Kirschenbaum, Matthew. “What Is ‘Digital Humanities,’ And Why Are They Saying Such Terrible Things About It?” <i>Differences</i> 25, no. 1 (May 1, 2014): 46–63. <a href="https://doi.org/10.1215/10407391-2419997">https://doi.org/10.1215/10407391-2419997</a>.</div>
+<div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="csl-entry">Lopez, Andrew, Fred Rowland, and Kathleen Fitzpatrick. “On Scholarly Communication and the Digital Humanities: An Interview with Kathleen Fitzpatrick.” In the Library with the Lead Pipe, January 14, 2015. <a href="https://www.inthelibrarywiththeleadpipe.org/2015/on-scholarly-communication-and-the-digital-humanities-an-interview-with-kathleen-fitzpatrick/">https://www.inthelibrarywiththeleadpipe.org/2015/on-scholarly-communication-and-the-digital-humanities-an-interview-with-kathleen-fitzpatrick/</a>.</div>
+<div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="csl-entry">Risam, Roopika. <i>New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy</i>. Evanston, IL: Northwestern University Press, 2019.</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Digital Humanities Projects</title>
+        <author>
+            <name>Anna Robinson-Sweet</name>
+        </author>
+        <link href="https://arobinsonsweet.github.io/digitalportfolio/projects-2.html"/>
+        <id>https://arobinsonsweet.github.io/digitalportfolio/projects-2.html</id>
+
+        <updated>2025-05-20T11:30:03-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Archives of Incarceration Map showing archives with a focus on documenting the U.S. carceral state https://storymaps.arcgis.com/stories/5c20ff4ead544023b29b3bf0b7ff0cf6 This exploratory data visualization&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2></h2>
+<h2 class="sc-title jsx-da8806f5db30298c jsx-9568c88d8b99fee3">Archives of Incarceration</h2>
+<figure ><figure class="post__image post__image--center"><img loading="lazy"  src="https://arobinsonsweet.github.io/digitalportfolio/media/posts/9/DH-portfolio_storymaps-3.jpeg" alt="" width="1000" height="725" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://arobinsonsweet.github.io/digitalportfolio/media/posts/9/responsive/DH-portfolio_storymaps-3-xs.jpeg 384w ,https://arobinsonsweet.github.io/digitalportfolio/media/posts/9/responsive/DH-portfolio_storymaps-3-sm.jpeg 600w ,https://arobinsonsweet.github.io/digitalportfolio/media/posts/9/responsive/DH-portfolio_storymaps-3-md.jpeg 768w ,https://arobinsonsweet.github.io/digitalportfolio/media/posts/9/responsive/DH-portfolio_storymaps-3-lg.jpeg 1200w ,https://arobinsonsweet.github.io/digitalportfolio/media/posts/9/responsive/DH-portfolio_storymaps-3-xl.jpeg 1600w"></figure>
+<figcaption >
+<p>Map showing archives with a focus on documenting the U.S. carceral state</p>
+</figcaption>
+</figure>
+<p><a href="https://storymaps.arcgis.com/stories/5c20ff4ead544023b29b3bf0b7ff0cf6">https://storymaps.arcgis.com/stories/5c20ff4ead544023b29b3bf0b7ff0cf6</a> </p>
+<p>This exploratory data visualization project is part of my dissertation research on archives that collect materials documenting the U.S. carceral system. The data visualizations explore the ecosystem of these archives using mapping, network analysis, and text analysis. The goal of is to surface shared and divergent approaches among archives doing similar work. “Archives of Incarceration” is a work in progress and informs my ongoing dissertation research. Once completed, the website and data visualizations will serve as a resource for memory workers who are engaged in documenting lived experiences of incarceration.</p>
+<p><span style="text-decoration: underline;"><strong>Tools</strong></span>: ArcGIS Storymaps, Palladio, Voyant</p>
+<p><span style="text-decoration: underline;"><strong>Year</strong></span>: 2024 – (ongoing)</p>
+<hr>
+<h2>Open / Opaque</h2>
+<figure ><figure class="post__image post__image--center"><img loading="lazy"  src="https://arobinsonsweet.github.io/digitalportfolio/media/posts/9/DH-portfolio_Cincinnati_-Racial-breakdown-of-use-of-force-incidents-2.png" alt="" width="756" height="786" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://arobinsonsweet.github.io/digitalportfolio/media/posts/9/responsive/DH-portfolio_Cincinnati_-Racial-breakdown-of-use-of-force-incidents-2-xs.png 384w ,https://arobinsonsweet.github.io/digitalportfolio/media/posts/9/responsive/DH-portfolio_Cincinnati_-Racial-breakdown-of-use-of-force-incidents-2-sm.png 600w ,https://arobinsonsweet.github.io/digitalportfolio/media/posts/9/responsive/DH-portfolio_Cincinnati_-Racial-breakdown-of-use-of-force-incidents-2-md.png 768w ,https://arobinsonsweet.github.io/digitalportfolio/media/posts/9/responsive/DH-portfolio_Cincinnati_-Racial-breakdown-of-use-of-force-incidents-2-lg.png 1200w ,https://arobinsonsweet.github.io/digitalportfolio/media/posts/9/responsive/DH-portfolio_Cincinnati_-Racial-breakdown-of-use-of-force-incidents-2-xl.png 1600w"></figure>
+<figcaption >
+<p>Visualization of reported police use of force cases in Cincinnati</p>
+</figcaption>
+</figure>
+<p><a href="https://arobinsonsweet.github.io/openopaque/">https://arobinsonsweet.github.io/openopaque/</a></p>
+<p>Completed as my final project for DH 201: Introduction to Digital Humanities, “Open/Opaque” visualizes data on police use of force. Compiling data from four different police departments that was made available through the federal government’s Police Data Initiative, this critical digital humanities project interrogates the supposed transparency offered by open data initiatives. Visualizations created from the four datasets reveals inconsistencies and obfuscations in the way police departments create and share data about use of force.</p>
+<p><span style="text-decoration: underline;"><strong>Tools</strong></span>: OpenRefine, Tableau, Mobirise</p>
+<p><span style="text-decoration: underline;"><strong>Year</strong></span>: 2022</p>
+<hr>
+<h2>In Custody Deaths in Ten Maryland Detention Centers</h2>
+<figure ><figure class="post__image post__image--center"><img loading="lazy"  src="https://arobinsonsweet.github.io/digitalportfolio/media/posts/9/DH-portfolio_BCS-2.jpg" alt="" width="1825" height="1342" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://arobinsonsweet.github.io/digitalportfolio/media/posts/9/responsive/DH-portfolio_BCS-2-xs.jpg 384w ,https://arobinsonsweet.github.io/digitalportfolio/media/posts/9/responsive/DH-portfolio_BCS-2-sm.jpg 600w ,https://arobinsonsweet.github.io/digitalportfolio/media/posts/9/responsive/DH-portfolio_BCS-2-md.jpg 768w ,https://arobinsonsweet.github.io/digitalportfolio/media/posts/9/responsive/DH-portfolio_BCS-2-lg.jpg 1200w ,https://arobinsonsweet.github.io/digitalportfolio/media/posts/9/responsive/DH-portfolio_BCS-2-xl.jpg 1600w"></figure>
+<figcaption >
+<p>Visualization of in-custody jail deaths in ten Maryland counties</p>
+</figcaption>
+</figure>
+<p><a href="https://ucla.app.box.com/s/z5wuokjrcegd2gvrx2hk3f7tbi938k47">https://ucla.app.box.com/s/z5wuokjrcegd2gvrx2hk3f7tbi938k47</a></p>
+<p><strong>With the BioCritical Studies Lab</strong></p>
+<p>Part of <a href="https://www.terencekeel.com/the-coroner-report-project " target="_blank" rel="noopener noreferrer">Coroners Reports Project: Death Under the U.S. Medical Examiner/Coroner System</a></p>
+<p>As part of a team of researchers at UCLA’s BioCritical Studies Lab, I helped analyze a dataset of deaths in Maryland local jails. Using Tableau, I created numerous visualizations that helped the research team understand the data and subsequently draft relevant policy recommendations. Many of the visualizations I created were included in a published report on in-custody deaths in Maryland jails co-authored with advocates from local organizations.</p>
+<p><span style="text-decoration: underline;"><strong>Tools</strong></span>: Tableau</p>
+<p><span style="text-decoration: underline;"><strong>Year</strong></span>: 2023</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Research</title>
+        <author>
+            <name>Anna Robinson-Sweet</name>
+        </author>
+        <link href="https://arobinsonsweet.github.io/digitalportfolio/research.html"/>
+        <id>https://arobinsonsweet.github.io/digitalportfolio/research.html</id>
+
+        <updated>2024-06-11T16:22:40-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Abolitionist Archival Imaginaries My dissertation project examines how communities impacted by incarceration use practices such as storytelling, oral history, and&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>Abolitionist Archival Imaginaries</h2>
+<h2><figure class="post__image post__image--center"><img loading="lazy"  src="https://arobinsonsweet.github.io/digitalportfolio/media/posts/4/Abolitionist-Archival-Imaginaries-flier-3.jpg" alt="" width="1466" height="800" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://arobinsonsweet.github.io/digitalportfolio/media/posts/4/responsive/Abolitionist-Archival-Imaginaries-flier-3-xs.jpg 384w ,https://arobinsonsweet.github.io/digitalportfolio/media/posts/4/responsive/Abolitionist-Archival-Imaginaries-flier-3-sm.jpg 600w ,https://arobinsonsweet.github.io/digitalportfolio/media/posts/4/responsive/Abolitionist-Archival-Imaginaries-flier-3-md.jpg 768w ,https://arobinsonsweet.github.io/digitalportfolio/media/posts/4/responsive/Abolitionist-Archival-Imaginaries-flier-3-lg.jpg 1200w ,https://arobinsonsweet.github.io/digitalportfolio/media/posts/4/responsive/Abolitionist-Archival-Imaginaries-flier-3-xl.jpg 1600w"></figure></h2>
+<p><span style="font-weight: 400;">My dissertation project examines how communities impacted by incarceration use practices such as storytelling, oral history, and community archiving to resist state violence. U.S. carceral systems have long used archival records to construct narratives that criminalize people, particularly Black, Indigenous, and other people of color. At the same time, however, survivors of state violence, organizers, and advocates are increasingly using memory work as a tactic for denaturalizing the prison’s place in our society. Such community-based oral history and archiving efforts convey the impact of incarceration, with implications for how we understand the past, present, and future of the carceral state. My dissertation studies this memory work, asking: How does archiving experiences of incarceration help communities imagine and move toward futures free from the violence of imprisonment? I answer this question through ethnographic research at three archives that collect materials from those who have experienced incarceration: After Violence Project, Rikers Public Memory Project, and the Voices of Mass Incarceration initiative at Brown University’s John Hay Library. In my analysis of interviews, fieldnotes, and archival collections from these sites, I draw on abolition feminism as a theoretical framework. Arguing for systemic and non-carceral approaches to addressing harm, abolition feminism introduces alternative understandings of justice to archival theory, which has been largely undergirded by legalistic conceptions of evidence and accountability. By describing an archival praxis rooted in transformative justice, community accountability, and systemic change, my dissertation not only contributes to information studies, but to the various interdisciplinary fields that study the carceral state, social movements, and collective memory.</span></p>
+<p><a href="https://arobinsonsweet.github.io/digitalportfolio/abolitionist archival imaginaries zine.pdf" target="_blank" rel="noopener noreferrer" download>Click here</a> to download a zine I created about my dissertation research.</p>
+<hr>
+<h2>Ethics of Carceral Collecting</h2>
+<p><span style="font-weight: 400;">A qualitative research project on the archiving of incarceration-related materials at universities. ​​In recent years, academic archives have increasingly devoted resources to documenting the impact of mass incarceration in the U.S. My research focuses on this emerging collecting area by conducting interviews with archivists at repositories that have undertaken this work. The findings of this research focus on the particular ethical difficulties of archiving materials related to incarceration, which are often made more complex by the carceral entanglements of the universities in which this work occurs. I argue for a liberatory approach to archiving incarceration materials, with a focus on how this work can help get people free.</span></p>
+<p><strong>Publications on this research</strong></p>
+<p>"Caring for Archives of Incarceration: The Ethics of Carceral Collecting at University Archives," <em>Archivaria </em>97 (May 2024), 26-80. <a href="https://archivaria.ca/index.php/archivaria/article/view/13957" target="_blank" rel="noopener noreferrer">https://archivaria.ca/index.php/archivaria/article/view/13957</a></p>
+<hr>
+<h2>Virtual Belonging: Assessing the Affective Impact of Digital Records Creation with Community Archives </h2>
+<h5>With the UCLA Community Archives Lab, After Violence Project, and the South Asian American Digital Archive</h5>
+<p>A four-year participatory action research project led by After Violence Project (AVP) and the South Asian American Digital Archive (SAADA) in collaboration with the UCLA Community Archives Lab. Through funding from the Institute for Museum and Library Services (IMLS), the project sponsored archival fellows at AVP and SAADA as they used digital technologies to collect oral histories and other records from their community. As part of a research team at UCLA, I worked with the fellows and the interviewees to develop tools that center the experiences and needs of contributors to community-based archives like AVP and SAADA. Along with the project PI from UCLA, Dr. Michelle Caswell, I co-authored four peer reviewed publications on the affective impact of using digital technologies like Zoom to create and collect archival records.</p>
+<p><strong>Publications on this research </strong>(co-authored)</p>
+<p>Michelle Caswell, Anna Robinson-Sweet &amp; Sadaf Ahmadbeigi, “Sometimes A Kitchen, Sometimes a Zoom Call”: Experiences of Recording Oral Histories Online,” <em>The Public Historian</em>, forthcoming (Winter 2026)</p>
+<p>Anna Robinson-Sweet &amp; Michelle Caswell, “Paying it Forward: The Prefigurative Politics of Record Creation.” <em>KULA: Knowledge Creation, Dissemination, and Preservation Studies</em>: 2025, Vol. 8, No. 1, <a href="https://kula.uvic.ca/index.php/kula/article/view/292/513">https://kula.uvic.ca/index.php/kula/article/view/292/513</a>.</p>
+<p>Michelle Caswell and Anna Robinson-Sweet, "'We Bounce off Each Other's Vibe': The Importance of Symmetrical Intersubjectivity Between Interviewer and Narrator," <em>The Oral History Review</em> 51 (2024), 179-202. <a href="https://www.tandfonline.com/doi/full/10.1080/00940798.2024.2316904">https://www.tandfonline.com/doi/full/10.1080/00940798.2024.2316904</a></p>
+<p>Michelle Caswell and Anna Robinson-Sweet, "'It Was as Much for Me as For Anybody Else': The Creation of Self-Validating Records," <em>The Journal of Contemporary Archival Studies</em> 10 (2023). <a href="https://elischolar.library.yale.edu/jcas/vol10/iss1/10/">https://elischolar.library.yale.edu/jcas/vol10/iss1/10/</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About</title>
+        <author>
+            <name>Anna Robinson-Sweet</name>
+        </author>
+        <link href="https://arobinsonsweet.github.io/digitalportfolio/anna-robinson-sweet.html"/>
+        <id>https://arobinsonsweet.github.io/digitalportfolio/anna-robinson-sweet.html</id>
+
+        <updated>2024-06-11T15:57:32-07:00</updated>
+            <summary>
+                <![CDATA[
+                    I am a PhD candidate in Information Studies at UCLA, where I am also pursuing a Graduate Certificate in Digital&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--left"><img loading="lazy"  src="https://arobinsonsweet.github.io/digitalportfolio/media/posts/1/headshot_square.jpg" alt="Headshot photograph of Anna Robinson-Sweet" width="229" height="229" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://arobinsonsweet.github.io/digitalportfolio/media/posts/1/responsive/headshot_square-xs.jpg 384w ,https://arobinsonsweet.github.io/digitalportfolio/media/posts/1/responsive/headshot_square-sm.jpg 600w ,https://arobinsonsweet.github.io/digitalportfolio/media/posts/1/responsive/headshot_square-md.jpg 768w ,https://arobinsonsweet.github.io/digitalportfolio/media/posts/1/responsive/headshot_square-lg.jpg 1200w ,https://arobinsonsweet.github.io/digitalportfolio/media/posts/1/responsive/headshot_square-xl.jpg 1600w"></figure><span style="font-weight: 400;">I am a PhD candidate in Information Studies at UCLA, where I am also pursuing a Graduate Certificate in Digital Humanities. Working at the intersection of critical archival studies, critical prison studies, and digital humanities, my research looks at how memory work about incarceration helps communities imagine and enact non-carceral futures.</span><span style="font-weight: 400;"> </span><span style="font-weight: 400;">At UCLA, I work with the </span><a href="https://communityarchiveslab.ucla.edu/" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">Community Archives Lab</span></a><span style="font-weight: 400;"> and teach in the <a href="https://communityengagement.ucla.edu/programs/community-engagement-and-social-change-minor/" target="_blank" rel="noopener noreferrer">Community and Engagement and Social Change</a> program. I have a worked as a community and labor organizer, oral historian, and an archivist. Outside of the academy and the archive, I am involved in abolitionist movement work and create art about public history, memory, and liberation.</span></p>
+<figure class="post__image"><img loading="lazy"  src="https://arobinsonsweet.github.io/digitalportfolio/media/posts/1/IMG_1097-2.JPG" alt="Photograph of plaque from my project &quot;Connecticut Memorial to Victims of State Violence&quot;" width="4806" height="3456" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://arobinsonsweet.github.io/digitalportfolio/media/posts/1/responsive/IMG_1097-2-xs.JPG 384w ,https://arobinsonsweet.github.io/digitalportfolio/media/posts/1/responsive/IMG_1097-2-sm.JPG 600w ,https://arobinsonsweet.github.io/digitalportfolio/media/posts/1/responsive/IMG_1097-2-md.JPG 768w ,https://arobinsonsweet.github.io/digitalportfolio/media/posts/1/responsive/IMG_1097-2-lg.JPG 1200w ,https://arobinsonsweet.github.io/digitalportfolio/media/posts/1/responsive/IMG_1097-2-xl.JPG 1600w"><figcaption>A plaque I created honoring those killed by the police in Connecticut, which I installed on a monument stone in Chatham Square in New Haven, CT. The memorial had been left blank after the original plaques were stolen. My memorial only remained in situ for a short time before being removed.</figcaption></figure>
+<p><span style="font-weight: 400;"> </span></p>
+            ]]>
+        </content>
+    </entry>
 </feed>
